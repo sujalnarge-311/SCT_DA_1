@@ -1,3 +1,4 @@
+
 # SCT_DA_1
 
 ## Overview
@@ -26,12 +27,12 @@ Developed an interactive Business Performance Dashboard in Excel to analyze sale
 
 ## Dashboard Preview
 
-![Dashboard Preview](DashBoard Excel.jpeg)
+<img width="1859" height="710" alt="Dashboard Preview" src="./DashBoard%20Excel.jpeg">
 
 ## Files Included
-- `SCT_DA_1.xlsx` → Excel Dashboard Project
-- `DashBoard Excel.jpeg` → Dashboard Screenshot
-- `README.md` → Project Documentation
+- `SCT_DA_1.xlsx` → Excel Dashboard Project  
+- `DashBoard Excel.jpeg` → Dashboard Screenshot  
+- `README.md` → Project Documentation  
 
 ## Author
 **Sujal Narge**
