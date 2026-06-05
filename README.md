@@ -1,4 +1,4 @@
-# SCT_DA_1 
+# SCT_DA_1
 
 ## Overview
 Developed an interactive Business Performance Dashboard in Excel to analyze sales trends, customer segments, regional performance, and year-over-year growth.
@@ -25,7 +25,13 @@ Developed an interactive Business Performance Dashboard in Excel to analyze sale
 - Strong YOY growth observed in 2018.
 
 ## Dashboard Preview
-<img width="1859" height="710" alt="image" src="https://github.com/user-attachments/assets/aee1ff09-e1ad-4ab6-9427-7abb7dd075c7" />
+
+![Dashboard Preview](DashBoard Excel.jpeg)
+
+## Files Included
+- `SCT_DA_1.xlsx` → Excel Dashboard Project
+- `DashBoard Excel.jpeg` → Dashboard Screenshot
+- `README.md` → Project Documentation
 
 ## Author
-Sujal Narge
+**Sujal Narge**
